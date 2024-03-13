@@ -231,6 +231,14 @@ body{
  margin: 0 auto;
 }
 
+.bookings {
+  border-radius: 50px;
+  background-color: rgb(128, 21, 21);
+  padding: 100px;
+  width:fit-content; 
+  text-align: center;
+  margin: 0 auto;
+}
 .footer{
   font-size: 12px ;
 }
